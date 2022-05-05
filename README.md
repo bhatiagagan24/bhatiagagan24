@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://71e7-122-161-52-31.ngrok.io/fetch/view/count?bg-color=#171515&text-color=white">
+<img src="https://71e7-122-161-52-31.ngrok.io/fetch/view/count?bg-color=green&text-color=white">
 
 
 <!--
