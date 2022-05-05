@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Views]('https://1209-122-161-52-31.ngrok.io/fetch/views')
-
+<img src="https://1209-122-161-52-31.ngrok.io/fetch/views" >
 
 
 <!--
