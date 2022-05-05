@@ -2,7 +2,7 @@
 
 ![Views]('https://1209-122-161-52-31.ngrok.io/fetch/views')
 <img src="https://1209-122-161-52-31.ngrok.io/fetch/views" >
-
+<img src="https://1209-122-161-52-31.ngrok.io/fetch/view/svg">
 
 <!--
 **bhatiagagan24/bhatiagagan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
