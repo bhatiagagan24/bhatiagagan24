@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://70dc-122-161-52-31.ngrok.io/fetch/view/count">
+<!-- <img src="https://70dc-122-161-52-31.ngrok.io/fetch/view/count" style="height=100px; width:50px"> -->
 
 <!--
 **bhatiagagan24/bhatiagagan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
