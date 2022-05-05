@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### request.get('https://1209-122-161-52-31.ngrok.io/fetch/views')
+### request.get('https://1209-122-161-52-31.ngrok.io/fetch/views').pipe(fs.createWriteStream('doodle.txt'))
 
 
 
